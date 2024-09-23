@@ -11,7 +11,7 @@
 ### 💞️ I’m looking to collaborate on ...
 - Open Source Projects
 - Web Development Projects
-- Data Science and Machine Learning Projects
+
 
 ### 📫 How to reach me ...
 - Email: sayanakhatun81@gmail.com
